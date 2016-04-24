@@ -1,0 +1,11 @@
+language: node_js
+
+sudo: false
+
+notifications:
+  email:
+  - guowei@shnow.cn
+
+node_js:
+- 5.1.x
+
