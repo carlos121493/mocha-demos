@@ -1,14 +1,15 @@
 {
   "reportTitle": "demo02",
+  "inlineAssets": false,
   "stats": {
     "suites": 1,
     "tests": 2,
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2015-12-21T07:54:26.053Z",
-    "end": "2015-12-21T07:54:26.083Z",
-    "duration": 30,
+    "start": "2016-04-24T04:51:41.222Z",
+    "end": "2016-04-24T04:51:41.241Z",
+    "duration": 19,
     "testsRegistered": 2,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -30,7 +31,7 @@
             "title": "1 加 1 应该等于 2",
             "fullTitle": "加法函数的测试 1 加 1 应该等于 2",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "state": "passed",
             "speed": "fast",
             "pass": true,
@@ -38,8 +39,8 @@
             "pending": false,
             "code": "expect(add(1, 1)).to.be.equal(2);",
             "isRoot": false,
-            "uuid": "587aaa3b-2898-47aa-a9d3-47a962264256",
-            "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+            "uuid": "09d24a45-3d97-4a1d-9399-57182f20dd8b",
+            "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
             "skipped": false
           },
           {
@@ -54,8 +55,8 @@
             "pending": false,
             "code": "expect(add(1, 0)).to.be.equal(1);",
             "isRoot": false,
-            "uuid": "34b6794f-b358-41ca-a5bb-45d6d50cebc8",
-            "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+            "uuid": "14200679-90cd-4170-a534-32186016c6b9",
+            "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
             "skipped": false
           }
         ],
@@ -63,14 +64,14 @@
         "root": false,
         "_timeout": 2000,
         "file": "/test/add.test.js",
-        "uuid": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
-        "fullFile": "/home/ruanyf/project/mocha-demos/demo02/test/add.test.js",
+        "uuid": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
+        "fullFile": "/Users/weiguo/git/github/mocha-demos/demo02/test/add.test.js",
         "passes": [
           {
             "title": "1 加 1 应该等于 2",
             "fullTitle": "加法函数的测试 1 加 1 应该等于 2",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "state": "passed",
             "speed": "fast",
             "pass": true,
@@ -78,8 +79,8 @@
             "pending": false,
             "code": "expect(add(1, 1)).to.be.equal(2);",
             "isRoot": false,
-            "uuid": "587aaa3b-2898-47aa-a9d3-47a962264256",
-            "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+            "uuid": "09d24a45-3d97-4a1d-9399-57182f20dd8b",
+            "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
             "skipped": false
           },
           {
@@ -94,8 +95,8 @@
             "pending": false,
             "code": "expect(add(1, 0)).to.be.equal(1);",
             "isRoot": false,
-            "uuid": "34b6794f-b358-41ca-a5bb-45d6d50cebc8",
-            "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+            "uuid": "14200679-90cd-4170-a534-32186016c6b9",
+            "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
             "skipped": false
           }
         ],
@@ -112,14 +113,14 @@
         "hasFailures": false,
         "hasPending": false,
         "hasSkipped": false,
-        "duration": 1
+        "duration": 0
       }
     ],
     "tests": [],
     "pending": [],
     "root": true,
     "_timeout": 2000,
-    "uuid": "112597eb-c5e9-42dd-8d2b-8b06e9321652",
+    "uuid": "9eaf4d9d-6bcc-4f56-b460-2e3d74f2a603",
     "fullFile": "",
     "file": "",
     "passes": [],
@@ -144,7 +145,7 @@
       "title": "1 加 1 应该等于 2",
       "fullTitle": "加法函数的测试 1 加 1 应该等于 2",
       "timedOut": false,
-      "duration": 1,
+      "duration": 0,
       "state": "passed",
       "speed": "fast",
       "pass": true,
@@ -152,8 +153,8 @@
       "pending": false,
       "code": "expect(add(1, 1)).to.be.equal(2);",
       "isRoot": false,
-      "uuid": "fe98bbd9-d4a3-4733-9e04-b0affb0f7e4d",
-      "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+      "uuid": "ceda2620-438b-444a-b1bc-41857fa66031",
+      "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
       "skipped": false
     },
     {
@@ -168,8 +169,8 @@
       "pending": false,
       "code": "expect(add(1, 0)).to.be.equal(1);",
       "isRoot": false,
-      "uuid": "80ba9ad4-4723-44b0-8b20-f809cf58b18d",
-      "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+      "uuid": "137e75bf-c869-4805-9df8-20074000bd87",
+      "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
       "skipped": false
     }
   ],
@@ -180,7 +181,7 @@
       "title": "1 加 1 应该等于 2",
       "fullTitle": "加法函数的测试 1 加 1 应该等于 2",
       "timedOut": false,
-      "duration": 1,
+      "duration": 0,
       "state": "passed",
       "speed": "fast",
       "pass": true,
@@ -188,8 +189,8 @@
       "pending": false,
       "code": "expect(add(1, 1)).to.be.equal(2);",
       "isRoot": false,
-      "uuid": "db9bc3aa-46b3-4137-996e-d011a1815813",
-      "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+      "uuid": "ba7c9659-c918-458b-b432-ff3bf34b1d3c",
+      "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
       "skipped": false
     },
     {
@@ -204,8 +205,8 @@
       "pending": false,
       "code": "expect(add(1, 0)).to.be.equal(1);",
       "isRoot": false,
-      "uuid": "2e24bd65-ae39-49c7-a911-0cd075037bcf",
-      "parentUUID": "bfd5c3ac-f96d-4ca0-88e8-dd4dbce34238",
+      "uuid": "4e4a453c-4f40-4139-b03d-096c7c4d91ce",
+      "parentUUID": "a889a1fe-dad7-4526-a9fa-154f563e5f81",
       "skipped": false
     }
   ],
