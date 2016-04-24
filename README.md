@@ -1,6 +1,8 @@
 This repo is for my article ["A Mocha tutorial of Examples"](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html) (in Chinese).
 
-[![Coverage Status](https://coveralls.io/repos/yiminghe/match-require/badge.svg?branch=master)](https://coveralls.io/r/yiminghe/match-require?branch=master)
+[![Build Status](https://travis-ci.org/carlos121493/mocha-demos.svg?branch=master)](https://travis-ci.org/carlos121493/mocha-demos)
+[![Coverage Status](https://coveralls.io/repos/github/carlos121493/mocha-demos/badge.svg?branch=master)](https://coveralls.io/github/carlos121493/mocha-demos?branch=master)
+
 
 > "Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun."
 >
